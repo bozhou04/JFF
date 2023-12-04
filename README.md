@@ -1,3 +1,3 @@
 # Just For Fun
-**JDK21
-**NetBeans20
+**JDK21**
+**NetBeans20**
